@@ -764,7 +764,7 @@ In your clone of this repository, find the `complex` exercise and list
 the files
 
 ```
-$ cd cpp4hpc/exercises/complex
+$ cd APT-CPP/exercises/complex
 $ ls
 Makefile	complex.cpp	complex.hpp	test.cpp
 ```

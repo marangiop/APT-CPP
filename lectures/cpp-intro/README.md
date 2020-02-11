@@ -241,19 +241,19 @@ module load gcc/8.2.0
 # Getting the source code
 
 All these slides and the exerices are available on GitHub:
-https://github.com/EPCCed/cpp4hpc
+https://github.com/EPCCed/APT-CPP
 
 You also can view the slides and other materials in a browser by going
-to https://EPCCed.github.io/cpp4hpc/
+to https://EPCCed.github.io/APT-CPP
 
 In the terminal, you need to use git get a copy of the exercises:
 ```
-git clone https://github.com/EPCCed/cpp4hpc
+git clone https://github.com/EPCCed/APT-CPP
 ```
 
 Then you can change to the directory with this simple program
 ```
-cd cpp4hpc/lectures/cpp-intro/hello
+cd APT-CPP/lectures/cpp-intro/hello
 ```
 
 ---
