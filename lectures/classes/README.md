@@ -377,7 +377,7 @@ class Greeter {
   }
 };
 
-int test(Greeter const& g) {
+void test(Greeter const& g) {
   g.say_hello();
 }
 ```
@@ -398,7 +398,7 @@ public:
   }
 };
 
-int test(Greeter const & g) {
+void test(Greeter const & g) {
   g.say_hello();
 }
 ```
